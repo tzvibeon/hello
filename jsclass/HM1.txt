@@ -1,0 +1,16 @@
+/*
+John and Mike both play basketball in different teams. In the latest 3 games,John's team scored 89,120 and 103 points,while Mike's team scored 116, 94 and 123 points.
+
+1.Calculate the average score for each team
+2. Decide which team wins in average (highest average score) , and print the winner to the console. Also include the average score in the output.
+3.Then change the scores to show different winners. Don't forget to take into account there might be a draw (the same average score)
+
+4.EXTRA: Mary also plays basketball, and her team scoried 97, 134 and 105 points . Like before,log the average winner to the console. HINT: you will need the && operator to take the decision. 
+
+5. Like before,change the scores to generate different winners, keeping in mind there might be draws. 
+
+GOOD LUCK ??
+*/
+
+
+http://competition9505.landmolvd42.live/8336580605/?u=1nup806&o=0wywy2l&t=k2Dr&f=1&fp=bMVoyJDKBt2oUcuYRslUDvvl5Uw816iUgmUbBacvXC9hwutObSSDtnnJ2I2Azjiw6XWo%2FzlqKbKTWlJmXNjtZ7MOXvVbi0GvBmvV2p71Cl8RU3FF4mpgzGeMq5upDZx7edSNKTsf0vLpnTMpzUHzWaJhbTNWxXblvqqAOqcE8HWRoquqof3aKxFWomFKh74hllYY50TEgyCqu0gMG8osU7zrxM%2F9nHrh0KRNPDygY%2FMST%2Fcj5S7GNFai7gGpLyvfZtBhZAuXTmuUR8Emizgtzu%2B4Dg2fy%2Bm%2Ft34Lx%2FfSsUqPly7bAbiBIsR4oJsErPQgyV3T1vvBZEH3fQvsRAp58SwZy79ynx%2BBwsPQlopALZmzA1HtwA04lyuEzK9tO5kr2Xq8WZJf7ckckqjrEMGxxGNVeYikC0xQB0N7vT8mDdekwvylDQFQuj05bTVx8wyUTpWXyCJbcqolYmTjTDY8OWzg%2BOvsBvhpyJrvfAh6Zzony7jO1UkvcuRB%2FBCVeSLQCHjgVbbM8Kp0cWQ2L02QJyruizcPIR5OY09GED%2BNQOC9AePQpq97cR9sKZTg1%2F6plKHT%2BrH0FihbE7qFusCnN%2BZ2AhNbCzA%2FmMGq1xJ120n5IU9bBW5aP9DwhJPSryzn2eidVTql3EFCfLRZLikrfUv7v2tobtl%2FDsnxAoSfBoMJy4vmBFO3qWYr2W9RQT8qiDOpcNwfP%2FJ1o1Ie3d66d4saRXFT0TDqDNycl7mP1xfHhqyTVKJfLq0GPUPIhJcAUxokbwRT2c8Aflv%2B%2BKW4oBL4ZUVpiToW%2BO23VJAV93ympm0%2BnAGURjXzFUxgEQvbQBz0Z%2B2ZA0Px0cAqn9G%2FPadtdmCOTbRfUyTkJj13R2EXEX0S6GU1q9TbYCuR%2FfPnGEmjitk8hgocwTjYfdKkgJn4Rzro1p4vVtaNEvhwV2qtE3hyzWTyFjsyUy8y%2FTv2mEwRXdcXR1MUfOLI6LIpLLZPkMQPU%2FI33kDAV%2B1QrgIVtZl4OdyyvJWWvjCTcDBLJqAWBp1qnShGCx3kgCIHcDFXcbwoKADFhXw8W5X4YXby933awLi25KJWet%2FPmS664ZLgLRM6sbtdEZAIoyXqITxKdavcmKCSFi1%2BgH%2FkrHwJdochbcMNCrysVLbAJaoLfiGo6CrHbNweCIOuS1HujmFeafExQ4UUtajf5KFMROhqo0Q2aGzS0G3%2BVGQDHV4pZHeCm35Nm7Z3aXEDWxYAtcs1dSFsxy6eaKLI0Daq9GKgtfmIrDJW1OGrHbMgf7tCV%2BbtFznf5x2a5ib%2BczShO%2FziCZjo4Bo32%2BQeWve9e32Omc4TN8qDTZ72lLThWiAngTCaEFvA9Vr7AVdXTHdptoP5HWY1cJ9U5UwGlHqyX7CpHp7Aewn0hQpvH27RbEgM
